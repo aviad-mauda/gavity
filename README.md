@@ -2,7 +2,6 @@
 # Configuration 
 cp .env.example .env
 
-
 # create data example :
 POST http://localhost:3000/data
 {
